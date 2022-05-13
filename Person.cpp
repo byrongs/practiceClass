@@ -1,6 +1,4 @@
-//
-// Created by Alice Soriano on 5/12/22.
-//
+
 
 #include <stdexcept>
 
